@@ -1,3 +1,7 @@
+# visit 
+
+https://dhivyak2004.github.io/Weather-App/
+
 # Weather Application
 
 This is a simple weather application that fetches weather data from the OpenWeatherMap API and displays it to the user based on the entered location. The application is built using HTML, CSS, and JavaScript.
